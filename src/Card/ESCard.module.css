@@ -1,0 +1,21 @@
+.card{
+    background-color: #00FF04;
+    width: 170px;
+    border-left: 3px solid #FBEA65;
+}
+
+.content{
+    padding-left: 20px;
+}
+
+.title{
+    font-size: 10px;
+    color: white;
+}
+
+.dis
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+}

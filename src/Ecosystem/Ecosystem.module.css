@@ -1,0 +1,24 @@
+.ecosystem{
+    display: flex;
+    flex-flow: column;
+    padding: 100px;
+    background-color: #00FF04;
+    height: 500px;
+    width: auto;
+}
+
+.heading{
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: capitalize;
+    color: white;
+    text-align: center;
+}
+
+.card{
+    display: flex;
+    flex-flow: row;
+    align-content: center;
+    padding: 50px 200px ;
+    width: 700px;
+}
